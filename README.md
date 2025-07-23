@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un repositorio de prueba del módulo 2 del PrepCourse
+Este proyecto es una prueba de creación de terminal en Git
